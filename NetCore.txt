@@ -1,0 +1,11 @@
+# Build Folders
+[Bb]in/
+[Oo]bj/
+
+# VS Code
+.vscode/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
